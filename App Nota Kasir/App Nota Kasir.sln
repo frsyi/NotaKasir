@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App Nota Kasir", "App Nota Kasir.csproj", "{DD8BDDE6-FB7A-479A-9C4E-02C7D33FEE44}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Nota Kasir Setup", "..\Nota Kasir Setup\Nota Kasir Setup.vdproj", "{28D3B68E-7E49-49EA-8CE9-3A779F402B4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD8BDDE6-FB7A-479A-9C4E-02C7D33FEE44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8BDDE6-FB7A-479A-9C4E-02C7D33FEE44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD8BDDE6-FB7A-479A-9C4E-02C7D33FEE44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD8BDDE6-FB7A-479A-9C4E-02C7D33FEE44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28D3B68E-7E49-49EA-8CE9-3A779F402B4E}.Debug|Any CPU.ActiveCfg = Debug
+		{28D3B68E-7E49-49EA-8CE9-3A779F402B4E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D649ED47-56DB-4CC3-81E3-5AA92B15CE57}
+	EndGlobalSection
+EndGlobal
